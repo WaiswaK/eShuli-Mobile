@@ -1,0 +1,2 @@
+D:\Current Projects\eShuli\eShuli\eShuli.WinPhone\eShuli.WinPhone.csproj;x86
+D:\Current Projects\eShuli\eShuli\eShuli\eShuli.csproj;neutral
